@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Mon Nov 24 20:46:36 2025
+# Process ID         : 15960
+# Current directory  : C:/Users/dol08/Desktop/AES-128_GCM_FINAL/AES-128_CTR.runs/impl_1
+# Command line       : vivado.exe -log top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top.tcl -notrace
+# Log file           : C:/Users/dol08/Desktop/AES-128_GCM_FINAL/AES-128_CTR.runs/impl_1/top.vdi
+# Journal file       : C:/Users/dol08/Desktop/AES-128_GCM_FINAL/AES-128_CTR.runs/impl_1\vivado.jou
+# Running On         : DESKTOP-A85US4I
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i5-12600K
+# CPU Frequency      : 3686 MHz
+# CPU Physical cores : 10
+# CPU Logical cores  : 16
+# Host memory        : 34138 MB
+# Swap memory        : 17716 MB
+# Total Virtual      : 51855 MB
+# Available Virtual  : 35590 MB
+#-----------------------------------------------------------
+source top.tcl -notrace

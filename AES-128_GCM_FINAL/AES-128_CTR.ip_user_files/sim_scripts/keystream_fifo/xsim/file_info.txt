@@ -1,0 +1,2 @@
+keystream_fifo.v,verilog,xil_defaultlib,../../../../AES-128_CTR.gen/sources_1/ip/keystream_fifo/sim/keystream_fifo.v,incdir="../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef"
+glbl.v,Verilog,xil_defaultlib,glbl.v

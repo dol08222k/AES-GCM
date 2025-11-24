@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Thu Nov 20 21:30:24 2025
+# Process ID         : 15852
+# Current directory  : C:/Users/user/Desktop/AES-128_CTR/AES-128_CTR.runs/keystream_fifo_synth_1
+# Command line       : vivado.exe -log keystream_fifo.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source keystream_fifo.tcl
+# Log file           : C:/Users/user/Desktop/AES-128_CTR/AES-128_CTR.runs/keystream_fifo_synth_1/keystream_fifo.vds
+# Journal file       : C:/Users/user/Desktop/AES-128_CTR/AES-128_CTR.runs/keystream_fifo_synth_1\vivado.jou
+# Running On         : EE522-48
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i7-1360P
+# CPU Frequency      : 2611 MHz
+# CPU Physical cores : 12
+# CPU Logical cores  : 16
+# Host memory        : 68354 MB
+# Swap memory        : 10200 MB
+# Total Virtual      : 78554 MB
+# Available Virtual  : 61876 MB
+#-----------------------------------------------------------
+source keystream_fifo.tcl -notrace
